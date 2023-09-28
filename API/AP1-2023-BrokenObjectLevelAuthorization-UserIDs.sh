@@ -2,8 +2,11 @@
 # Created by Tom R. 20230928
 
 # Based upon working with VAPI.
-# Creates a grepable file which can be searched for values.
 # Create your number list using the command 'seq 1 1300 > numbers.txt' 
+
+# Creates a grepable file which can be searched for values.
+# cat output.txt| grep 'Dwight\|Michael\|Jim\|Angela\|Holly\|Pam\|api1\|api3'
+
 
 #!/bin/bash
 
