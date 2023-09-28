@@ -7,6 +7,9 @@
 # Creates a grepable file which can be searched for values.
 # cat output.txt| grep 'Dwight\|Michael\|Jim\|Angela\|Holly\|Pam\|api1\|api3'
 
+# In vAPI v1, the auth token is created by the following command
+# echo -n "Username:Password" | base64
+
 
 #!/bin/bash
 
